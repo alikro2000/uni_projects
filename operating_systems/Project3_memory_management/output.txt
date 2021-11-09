@@ -1,0 +1,18 @@
+*** First Fit ***
+Compression No: 0
+Memory Status: C, 5, B, 17
+External Fragmentation blocks count: 1
+External Fragmentation average size: 5.000000
+
+*** Best Fit ***
+Compression No: 0
+Memory Status: C, 5, B, 17
+External Fragmentation blocks count: 1
+External Fragmentation average size: 5.000000
+
+*** Next Fit ***
+Compression No: 0
+Memory Status: C, 5, B, 17
+External Fragmentation blocks count: 1
+External Fragmentation average size: 5.000000
+
